@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## To run application
 
 Run 'npm install'
+
 To start as React app, run 'npm start'
+
 To start as electron app run 'npm run electron-start'
 
